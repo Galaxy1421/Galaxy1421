@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [EzyDoze app](https://github.com/Galaxy1421/EzyDose)
   
-- 🎮 Small game project [Galactic Glide](https://github.com/Galaxy1421/Galactic-Glide)
+- 🎮 I've developed a small game [Galactic Glide](https://github.com/Galaxy1421/Galactic-Glide)
     
 - 🪄 I’m currently learning **flutter and dart**
 
