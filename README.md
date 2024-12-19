@@ -32,6 +32,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galaxy1421&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="200px"/>
 </p>
 
+[![](https://visitcount.itsvg.in/api?id=galaxy1421&icon=9&color=10)](https://visitcount.itsvg.in)
+
 ### ƪ(⋆‿⋆)ʃ Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=galaxy1421&limit=5&theme=rose_pine&combine_all_yearly_contributions=true)
 
