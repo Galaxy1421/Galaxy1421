@@ -26,13 +26,12 @@
 <p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
 ### 🌟 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=galaxy1421&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="200px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=galaxy1421&theme=aura_dark&hide_border=false" alt="GitHub Streak Stats" height="200px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galaxy1421&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="200px"/>
-</p>
+![](https://github-readme-stats.vercel.app/api?username=galaxy1421&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=galaxy1421&theme=aura_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=galaxy1421&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ### ƪ(⋆‿⋆)ʃ Top Contributed Repo
-[![](https://github-contributor-stats.vercel.app/api?username=galaxy1421&limit=5&theme=rose_pine&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=galaxy1421&limit=5&theme=aura_dark&combine_all_yearly_contributions=true)
 
-[![](https://visitcount.itsvg.in/api?id=galaxy1421&icon=9&color=10)](https://visitcount.itsvg.in)
-
+---
+[![](https://visitcount.itsvg.in/api?id=galaxy1421&icon=9&color=5)](https://visitcount.itsvg.in)
