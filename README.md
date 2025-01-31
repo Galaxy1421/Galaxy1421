@@ -34,5 +34,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Galaxy1421&limit=5&theme=rose_pine&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=galaxy1421&icon=9&color=5)](https://visitcount.itsvg.in)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=galaxy1421&label=Profile%20views&color=0e75b6&style=flat" alt="galaxy1421" /> </p>
 
