@@ -1,5 +1,5 @@
 <h1 align="center">Hi (∩^o^)⊃-☆, I'm Ghaida Alessa</h1>
-<h3 align="center"> 👩🏻‍🎓 Senior computer science student with a keen interest in cybersecurity, mobile application development, and web development 🚀</h3>
+<h3 align="center"> 👩🏻‍🎓 Computer Science graduate with a strong interest in mobile application development and cybersecurity. 🚀</h3>
 
 - 🔭 I’m currently working on a small game [Galactic Glide](https://github.com/Galaxy1421/Galactic-Glide) & My graduation project [EzyDose app](https://github.com/Galaxy1421/EzyDose)
      
