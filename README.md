@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **gessa.1421@icloud.com**
 
-- 📄 Know about my experiences [bit.ly/GhaidaResume](bit.ly/GhaidaResume)
+- 📄 Know about my experiences [https://bit.ly/GhaidaAlessaCv](https://bit.ly/GhaidaAlessaCv)
 
 - ✨ Fun Fact **I'm a bit of a space freak (☆◠‿◠)**
 
