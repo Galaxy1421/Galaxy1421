@@ -6,8 +6,8 @@
 - 🪄 I’m currently learning **Mobile Development with Flutter & Dart**, and **Web Development with JavaScript, HTML, CSS**  
 
 - 🪐 Some of my projects:
-  - [Galactic Glide](https://github.com/Galaxy1421/Galactic-Glide) – My first game, a space-themed project built with ASP.NET and C#  
-  - [EzyDose app](https://github.com/Galaxy1421/EzyDose) – Graduation project: a mobile app in Flutter for medication reminders and dose tracking  
+  - [EzyDose app](https://github.com/Galaxy1421/EzyDose) – Graduation project: a mobile app in Flutter for medication reminders and dose tracking
+  - [Galactic Glide](https://github.com/Galaxy1421/Galactic-Glide) – My first game, a space-themed project developed with Unity and C#  
   - [Astrophile](https://github.com/Galaxy1421/webproject) – A simple astronomy-themed website built with HTML/CSS and JavaScript  
 
 - 👩🏻‍💻 All of my projects are available at [https://github.com/Galaxy1421](https://github.com/Galaxy1421)
