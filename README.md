@@ -2,7 +2,7 @@
 <h3 align="center"> 👩🏻‍🎓 Computer Science graduate with a strong interest in mobile application development, web development, and cybersecurity. 🚀</h3>
 
 - 🔭 I’m currently working on [DashStack](https://github.com/Galaxy1421/DashStack) – an Angular front-end project originally built as part of an interview task, and I’m continuing to develop it to further practice and strengthen my skills.
-- 
+  
 - 🪄 I’m currently learning **Mobile Development with Flutter & Dart**, and **Web Development with JavaScript, HTML, CSS**  
 
 - 🪐 Some of my projects:
