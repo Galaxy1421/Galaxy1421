@@ -1,7 +1,7 @@
 <h1 align="center">Hi (∩^o^)⊃-☆, I'm Ghaida Alessa</h1>
 <h3 align="center"> 👩🏻‍🎓 Computer Science graduate with a strong interest in mobile application development, web development, and cybersecurity. 🚀</h3>
 
-- 🪄 I’m currently learning **Front-End Web Development**
+- 🪄 I’m currently learning **Front-End Web Development**, and Mobile Front-End Development with **Flutter**
 
 - 🪐 Some of my projects:
   - [EzyDose app](https://github.com/Galaxy1421/EzyDose) – Graduation project: a mobile app in Flutter for medication reminders and dose tracking
