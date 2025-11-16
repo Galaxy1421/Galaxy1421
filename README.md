@@ -1,9 +1,7 @@
 <h1 align="center">Hi (∩^o^)⊃-☆, I'm Ghaida Alessa</h1>
 <h3 align="center"> 👩🏻‍🎓 Computer Science graduate with a strong interest in mobile application development, web development, and cybersecurity. 🚀</h3>
 
-- 🔭 I’m currently working on [DashStack](https://github.com/Galaxy1421/DashStack) – an Angular front-end project originally built as part of an interview task, and I’m continuing to develop it to further practice and strengthen my skills.
-  
-- 🪄 I’m currently learning **Mobile Development with Flutter & Dart**, and **Web Development with JavaScript, HTML, CSS**  
+- 🪄 I’m currently learning **Front-End Web Development**
 
 - 🪐 Some of my projects:
   - [EzyDose app](https://github.com/Galaxy1421/EzyDose) – Graduation project: a mobile app in Flutter for medication reminders and dose tracking
